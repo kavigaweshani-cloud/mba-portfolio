@@ -1,4 +1,5 @@
 STRUCTURE / OUTLINE FOR ONE-PAGE MBA PORTFOLIO
+
 1️⃣ Header Section
 
 Full Name
@@ -49,3 +50,4 @@ Short-term goal
 
 Long-term vision
 LInk for LLM -https://chatgpt.com/share/69935e2e-09c0-800e-a6ec-5bf90361f5da
+
