@@ -1,7 +1,4 @@
-🌐 One-Page MBA Portfolio – Structure & Sample Content
-1️⃣ Hero Section (Top of Page)
 
-Name:
 
 Kavindaya Abeysekara
 
@@ -12,12 +9,10 @@ Location:
 Vancouver, Canada
 Expected MBA Graduation: July 2026
 
-2️⃣ Professional Bio (3–4 sentences)
+I am an MBA student at University Canada West with a strong academic background in business management and data analytics. I hold a Master’s in Data Analytics from the University of Kelaniya and a Bachelor’s in Business Management from the University of Jaffna. My professional journey with the Red Cross has strengthened my leadership, administrative, and community engagement skills. I am passionate about combining business strategy and data-driven decision-making to create meaningful organizational impact.
 
-I am an MBA student at University Canada West with a strong academic background in business management and data analytics. I hold a Master’s in Data Analytics from University of Kelaniya and a Bachelor’s in Business Management from University of Jaffna. My professional journey with the Red Cross has strengthened my leadership, administrative, and community engagement skills. I am passionate about combining business strategy and data-driven decision-making to create meaningful organizational impact.
-
-3️⃣ Education
-🎓 Master of Business Administration (MBA)
+Education
+ Master of Business Administration (MBA)
 
 University Canada West, Vancouver, Canada
 Expected Graduation: July 2026
@@ -26,7 +21,7 @@ Focus on strategic management, analytics, and leadership
 
 Developing expertise in data-driven business decisions
 
-🎓 Master of Data Analytics
+ Master of Data Analytics
 
 University of Kelaniya, Sri Lanka
 Completed: September 2025
@@ -35,7 +30,7 @@ Specialized in data analysis, statistical modeling, and business intelligence
 
 Applied analytics to real-world business problems
 
-🎓 Bachelor of Business Management
+ Bachelor of Business Management
 
 University of Jaffna, Sri Lanka
 Completed: July 21, 2023
@@ -44,7 +39,7 @@ Studied marketing, finance, human resources, and management
 
 Built strong foundations in business strategy and operations
 
-4️⃣ Professional Experience
+Professional Experience
 Administration Worker
 
 Red Cross Society | 2020 – 2024
@@ -79,8 +74,8 @@ Supported donation management and inventory organization
 
 Contributed to community-focused initiatives
 
-5️⃣ Key Skills
-💼 Professional Skills
+ Key Skills
+ Professional Skills
 
 Data Entry & Record Management
 
@@ -94,7 +89,7 @@ Team Leadership
 
 Administrative Coordination
 
-🎨 Technical & Creative Skills
+Technical & Creative Skills
 
 Graphic Design
 
@@ -102,7 +97,7 @@ Report Preparation & Presentation Design
 
 Data Organization & Analysis
 
-❤️ Community & Safety
+ Community & Safety
 
 First Aid Certified
 
@@ -110,14 +105,14 @@ Community Engagement
 
 Volunteer Coordination
 
-6️⃣ Optional Closing Section (Recommended)
+ Optional Closing Section (Recommended)
 Let’s Connect
 
 I am actively seeking opportunities in business analytics, administration, and strategic management roles where I can apply my analytical skills and leadership experience. I welcome collaboration, networking, and professional conversations.
 
-📧 Email: kavi.gaweshani@gmail.com
+Email: kavi.gaweshani@gmail.com
 
-📍 Vancouver, Canada
+Vancouver, Canada
 
 ---
 
@@ -135,4 +130,5 @@ I am actively seeking opportunities in business analytics, administration, and s
 - I added my contact information
 
 **Why I made these changes:**
+
 The LLM gave me a good starting point and helped me know what to include. But it didn't know my actual experiences, so I personalized everything to make sure my portfolio shows the real me.
