@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Quarto cache
+.quarto/
+_site/
+
+# Old/backup files
+myportfolio/
+*.txt
+appendix.md
+appendix.html
