@@ -1,0 +1,34 @@
+---
+title: ""
+format:
+  html:
+    theme: darkly
+    css: styles.css
+---
+
+<div class="navbar">
+  <a href="index.html">Home</a> |
+  <a href="about.html">About</a> |
+  <a href="resume.html">Resume</a> |
+  <a href="projects.html">Projects</a> |
+  <a href="skills.html">Skills</a> |
+  <a href="contact.html">Contact</a> |
+  <a href="reflection.html">Reflection</a>
+</div>
+
+::: {.hero}
+
+# Hello ..!! I'm Kavindaya Abeysekara
+Welcome to my profile
+
+![](photo.jpg)
+
+<div class="hero-nav">
+  <a href="about.html">About</a>
+  <a href="resume.html">Education</a>
+  <a href="projects.html">Projects</a>
+  <a href="skills.html">Skills</a>
+  <a href="contact.html">Contact</a>
+</div>
+
+:::

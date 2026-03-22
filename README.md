@@ -41,7 +41,7 @@ Welcome to my professional portfolio website! This multi-page portfolio showcase
 ## 📱 Contact Information
 
 - **Email:** kavi.gaweshani@gmail.com
-- **LinkedIn:** [linkedin.com/in/kavindaya-abeysekara-69a8701b9](https://www.linkedin.com/in/kavindaya-abeysekara-69a8701b9)
+- **LinkedIn:** [linkedin.com/in/kavindya-abeysekara-69a8701b9](https://www.linkedin.com/in/kavindya-abeysekara-69a8701b9/)
 - **Location:** Vancouver, BC, Canada
 
 ## 🚀 Viewing the Portfolio

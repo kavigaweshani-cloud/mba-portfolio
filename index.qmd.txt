@@ -1,0 +1,10 @@
+---
+title: "Kavindaya Abeysekara"
+format:
+  html:
+    theme: cosmo
+---
+
+# About Me
+
+I am an MBA student at University Canada West...
